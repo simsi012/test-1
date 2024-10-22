@@ -1,4 +1,5 @@
 a
+<<<<<<< HEAD
 b
 c
 d
@@ -7,8 +8,16 @@ f
 g
 h
 i
+=======
+>>>>>>> ego
 j
 k
 l
 m
+<<<<<<< HEAD
 n
+=======
+n
+sfsdf
+sdfsfsfsf
+>>>>>>> ego
